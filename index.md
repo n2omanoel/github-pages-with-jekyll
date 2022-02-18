@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Bruno Freitas's Portfolio"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Bora ali codar um café?
